@@ -89,7 +89,7 @@ document.querySelectorAll('nav ul li a').forEach(anchor => {
 
 // Efecto de escritura para el typewriter
 const typewriterElement = document.querySelector('.typed-text');
-const phrases = ['Desarrollador Frontend','Diseñador UX/UI' ];
+const phrases = ['Desarrollador Fullstack'];
 let phraseIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
